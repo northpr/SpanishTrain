@@ -73,7 +73,7 @@ plt.show()
 
 **Example of Plotly** For better interaction, I just want to try it because it looks fun!
 Pie chart to Train types
-![Distribution](https://github.com/northpr/SpanishTrain/blob/main/images/Screen%20Shot%202564-10-29%20at%2015.30.09.png)
+![Distribution](https://github.com/northpr/SpanishTrain/blob/main/images/newplot.png?raw=true)
 ```Python
 countpie = df['train_type'].value_counts()
 
